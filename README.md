@@ -1,7 +1,7 @@
 # Hi 🖐️ I'm Haneul Cho.
 I have strong backgrounds in UI design, HTML, CSS that can help the product's vision from 0 to 1.
 
-I'm currently working at [3ProTV](https://apps.3protv.com/) based in South Korea.
+I previously worked at [3ProTV](https://apps.3protv.com/) based in South Korea.
 
 As a lead front-end developer, I'm trying to coach our team with a focus on mastering software development fundamentals and looking forward to finding a better way to accelerate technical growth.
 
