@@ -1,9 +1,9 @@
 # Hi 🖐️ I'm Haneul Cho.
-I have strong backgrounds in UI design, HTML, CSS that can help the product's vision from 0 to 1.
+I have strong background in UI design, HTML, CSS that can help the product's vision from 0 to 1.
 
 I previously worked at [3ProTV](https://apps.3protv.com/) based in South Korea.
 
-As a lead front-end developer, I'm trying to coach our team with a focus on mastering software development fundamentals and looking forward to finding a better way to accelerate technical growth.
+As a lead front-end developer, I focus on coaching my team to master software development fundamentals while continuously exploring better ways to accelerate technical growth.
 
 
 ## 👩‍💻 Core Technologies:
